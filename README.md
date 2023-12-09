@@ -8,12 +8,26 @@ The dataset used in this project was obtained from Kaggle. It provides valuable 
 
 Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 ## Key Components
-1. **Dataset Exploration (EDA)**: A comprehensive exploration of the dataset, understanding its structure, and identifying key patterns and trends that contribute to stroke risk prediction.
-2. **Label Encoding**: Transformation of categorical variables into numerical format to facilitate the input requirements of the deep learning model.
-3. **MinMax Scaling**: Standardizing numerical features to a specific range, ensuring uniformity and aiding in model convergence.
-4. **Model Architecture**: Detailed information about the structure and configuration of the ANN model, including the number of layers, activation functions, and dropout regularization.
-5. **Evaluation Metrics**: An explanation of metrics such as the ROC (Receiver Operating Characteristic) curve and AUC (Area Under the ROC Curve) used to assess the model's performance.
+1. ### 1. Data Exploration
+Delve into the dataset to understand its structure, characteristics, and potential challenges. This step involves gaining insights into the distribution of features, identifying missing values, and exploring correlations.
 
+### 2. Data Cleaning
+Implement data cleaning techniques to address missing values, outliers, and inconsistencies. A clean dataset forms the foundation for accurate model training and evaluation.
+
+### 3. Feature Engineering
+Craft new features or transform existing ones to enhance the model's ability to capture meaningful patterns. Feature engineering plays a crucial role in improving the overall performance of the predictive model.
+
+### 4. EDA (Exploratory Data Analysis)
+Leverage EDA techniques to uncover patterns, trends, and relationships within the data. Visualization tools are employed to make complex patterns more interpretable and provide valuable insights.
+
+### 6. Feature Scaling
+Normalize or standardize feature values to bring them within a similar range, preventing certain features from dominating others during model training.
+
+### 7. Model Building using ANN
+Employ advanced artificial neural networks (ANN) to build a robust stroke prediction model. Fine-tune hyperparameters, choose an appropriate architecture, and train the model on the preprocessed dataset.
+
+### 8. Evaluation Metrics
+Evaluate the model's performance using ROC curve analysis and ROC AUC scores. These metrics provide insights into the model's ability to discriminate between positive and negative instances, offering a comprehensive assessment of its predictive power.
 ## Project Highlights
 - **Deep Learning Approach**: The project employs state-of-the-art deep learning techniques to achieve accurate stroke risk prediction.
 - **Model Performance**: The developed model demonstrates notable performance, as indicated by a high ROC AUC score, showcasing its efficacy in distinguishing between positive and negative instances of stroke risk.
