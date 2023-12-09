@@ -1,8 +1,7 @@
 # Decoding-Health-Patterns-with-Advanced-Neural-Networks-for-Stroke-Prediction
 
 ## Introduction
-Welcome to the "Stroke Risk Prediction with Deep Learning" project. This repository focuses on utilizing advanced Artificial Neural Networks (ANNs) to develop a predictive model for assessing the likelihood of individuals experiencing a stroke. The project incorporates key components such as dataset exploration (EDA), label encoding, and feature scaling (MinMax Scaling) to enhance data preprocessing. Explore the model architecture and evaluation metrics to gain insights into the project's methodology and outcomes.
-
+This project utilizes advanced neural networks and deep learning techniques to decode health patterns and predict the risk of strokes. Leveraging state-of-the-art artificial neural networks (ANN), the model explores intricate relationships within health data to offer accurate stroke predictions. The repository contains the source code, dataset information, and comprehensive documentation to empower researchers, data scientists, and healthcare professionals in understanding and implementing this innovative approach to stroke prediction.
 ## Key Components
 1. **Dataset Exploration (EDA)**: A comprehensive exploration of the dataset, understanding its structure, and identifying key patterns and trends that contribute to stroke risk prediction.
 2. **Label Encoding**: Transformation of categorical variables into numerical format to facilitate the input requirements of the deep learning model.
