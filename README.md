@@ -2,6 +2,11 @@
 
 ## Introduction
 This project utilizes advanced neural networks and deep learning techniques to decode health patterns and predict the risk of strokes. Leveraging state-of-the-art artificial neural networks (ANN), the model explores intricate relationships within health data to offer accurate stroke predictions. The repository contains the source code, dataset information, and comprehensive documentation to empower researchers, data scientists, and healthcare professionals in understanding and implementing this innovative approach to stroke prediction.
+
+## Dataset
+The dataset used in this project was obtained from Kaggle. It provides valuable information for stroke prediction, including various features related to individuals' health. The dataset was employed for data exploration, cleaning, and analysis to develop an advanced neural network model for predicting stroke risk.
+
+Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 ## Key Components
 1. **Dataset Exploration (EDA)**: A comprehensive exploration of the dataset, understanding its structure, and identifying key patterns and trends that contribute to stroke risk prediction.
 2. **Label Encoding**: Transformation of categorical variables into numerical format to facilitate the input requirements of the deep learning model.
